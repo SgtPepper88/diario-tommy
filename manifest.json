@@ -7,7 +7,7 @@
   "theme_color": "#00b4d8",
   "icons": [
     {
-      "src": "https://diariotommy.streamlit.app/app/static/icona_tommy.jpg",
+      "src": "https://raw.githubusercontent.com/SgtPepper88/diario-tommy/main/icona_tommy.jpg",
       "sizes": "512x512",
       "type": "image/jpeg",
       "purpose": "any maskable"
