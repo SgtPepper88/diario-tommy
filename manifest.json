@@ -1,0 +1,15 @@
+{
+  "name": "Diario Tommy",
+  "short_name": "DiarioTommy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00b4d8",
+  "icons": [
+    {
+      "src": "icona_tommy.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
