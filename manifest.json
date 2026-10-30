@@ -7,9 +7,10 @@
   "theme_color": "#00b4d8",
   "icons": [
     {
-      "src": "icona_tommy.jpg",
-      "sizes": "192x192 512x512",
-      "type": "image/jpeg"
+      "src": "https://diariotommy.streamlit.app/app/static/icona_tommy.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
     }
   ]
 }
